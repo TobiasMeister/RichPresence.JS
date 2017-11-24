@@ -1,0 +1,26 @@
+{
+  "name": "richpresence.js",
+  "version": "1.0.0",
+  "description": "A Node.js wrapper for the official Discord Rich Presence API",
+  "main": "./rpc/DiscordRPC.js",
+  "directories": {
+    "lib": "./lib",
+    "example": "./example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiasMeister/RichPresence.JS.git"
+  },
+  "author": "Tobias Meister",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TobiasMeister/RichPresence.JS/issues"
+  },
+  "homepage": "https://github.com/TobiasMeister/RichPresence.JS#readme",
+  "dependencies": {
+    "ffi": "^2.2.0"
+  }
+}
